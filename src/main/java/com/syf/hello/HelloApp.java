@@ -1,13 +1,13 @@
-package com.syf.develop;
+package com.syf.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserEventApp {
+public class HelloApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserEventApp.class, args);
+		SpringApplication.run(HelloApp.class, args);
 	}
 
 }

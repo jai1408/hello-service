@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.syf.hello</groupId>
 	<artifactId>hello-service</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>hello-service</name>
 	<description>project for Spring Boot </description>
 

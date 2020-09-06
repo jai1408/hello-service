@@ -1,1 +1,1 @@
-web: java -war target/hello-service-2.3.3.RELEASE.war
+web: java -jar target/hello-service-2.3.3.RELEASE.war
